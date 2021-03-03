@@ -1,0 +1,7 @@
+#mainAnchorPane {
+    -fx-background-image: url("@../../../images/board.jpg");
+    -fx-background-repeat: no-repeat;
+    width: 1024px;
+    height: 863px;
+    margin: auto;
+}
